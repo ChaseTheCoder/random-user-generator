@@ -4,12 +4,14 @@ Simple Vue.js componenent to generate a user's information using randomuser.me A
 
 ## Installation and Use
 
-Clone and run npm install to locally run and save reading list.
-
+Clone and run npm install to locally run.
 
 ```bash
 npm install
+
 ```
+
+Or [click here to see the app](https://chasethecoder.github.io/random-user-generator/).
 
 ## Libraries & Frameworks
 
